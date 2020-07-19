@@ -1,0 +1,23 @@
+{
+  "name": "myangulardemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunk2493/MyAngularApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunk2493/MyAngularApp/issues"
+  },
+  "homepage": "https://github.com/arunk2493/MyAngularApp#readme",
+  "dependencies": {
+    "primeicons": "^4.0.0",
+    "primeng": "^9.1.3"
+  }
+}
